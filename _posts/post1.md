@@ -1,11 +1,11 @@
 ---
-  layout: post
-  title: Привет!
-  featured: true
-  author: Хапуга
-  tags: [хапуга, ruby, java]
-  image: '/images/posts/image.jpeg'
-  ---
+layout: post
+title: Привет!
+featured: true
+author: Хапуга
+tags: [хапуга, ruby, java]
+image: '/images/posts/image.jpeg'
+---
 
 You love Minimalism, and you also love writing, Maxima is designed for you. Maxima focus on showing your content in a clean and simple way, focus on images, typography, and white space.
 
