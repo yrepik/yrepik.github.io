@@ -3,6 +3,7 @@ layout: post
 title: Привет!
 featured: true
 author: Хапуга
+categories: [blog, travel]
 tags: [хапуга, ruby, java]
 image: '/images/posts/image.jpeg'
 ---
