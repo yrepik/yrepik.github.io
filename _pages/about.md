@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: О Хапуге
+permalink: /about
 image: '/images/pages/about.jpeg'
 ---
 
