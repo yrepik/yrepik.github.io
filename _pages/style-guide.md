@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Стили
+permalink: /style-guide
 image: '/images/pages/about.jpeg'
 ---
 
