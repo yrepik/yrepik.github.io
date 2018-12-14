@@ -1,10 +1,4 @@
 ---
-layout: post
-title: Post 1
-image: '/images/posts/post1.jpeg'
----
-
----
   layout: post
   title: Привет!
   featured: true
