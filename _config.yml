@@ -6,15 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:              Maxima
-logo:               # Logo image URL
-email:              your-email@domain.com
-description:        Minimal Blog & Magazine Jekyll Theme
+title:              Хапу.GA
+logo:               /images/logo.png
+email:              info@khapu.ga
+description:        Блог </>
 baseurl:            '' # The subpath of your site, e.g. /blog
 url:                'http://maxima-jekyll.aspirethemes.com' # The base hostname & protocol for your site
-github_username:    aspirethemes
-twitter_username:   aspirethemes
-instagram_username: aspirethemes
+github_username:    yrepik
+twitter_username:   yrepik
+instagram_username: yuriyrepik
 
 markdown:  kramdown
 permalink: pretty
@@ -49,10 +49,10 @@ defaults:
 # Authors
 authors:
   ahmad:
-    name:             Ahmad Ajmi
-    bio:              Author & developer of Aspire Themes. Minimalist. I love creating clean and minimal websites.Technical writer at SitePoint.
-    gravatar:         https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
-    email:            info@aspirethemes.com
-    website:          http://aspirethemes.com
-    github_username:  ahmadajmi
-    twitter_username: ahmadajmi
+    name:             Хапуга
+    bio:              Developer of Themes.
+    gravatar:         https://avatars1.githubusercontent.com/u/932531?s=96&v=4
+    email:            info@khapu.ga
+    website:          http://khapu.ga
+    github_username:  yrepik
+    twitter_username: yrepik
