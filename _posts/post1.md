@@ -4,6 +4,15 @@ title: Post 1
 image: '/images/posts/post1.jpeg'
 ---
 
+---
+  layout: post
+  title: Привет!
+  featured: true
+  author: Хапуга
+  tags: [хапуга, ruby, java]
+  image: '/images/posts/image.jpeg'
+  ---
+
 You love Minimalism, and you also love writing, Maxima is designed for you. Maxima focus on showing your content in a clean and simple way, focus on images, typography, and white space.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
