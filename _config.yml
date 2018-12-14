@@ -9,9 +9,9 @@
 title:              Хапу.GA
 logo:               /images/logo.png
 email:              info@khapu.ga
-description:        Блог </>
-baseurl:            '' # The subpath of your site, e.g. /blog
-url:                'http://maxima-jekyll.aspirethemes.com' # The base hostname & protocol for your site
+description:        Хапуга нового поколения
+baseurl:            '/' # The subpath of your site, e.g. /blog
+url:                'http://khapu.ga' # The base hostname & protocol for your site
 github_username:    yrepik
 twitter_username:   yrepik
 instagram_username: yuriyrepik
