@@ -5,13 +5,12 @@ permalink: /style-guide
 image: '/images/pages/about.jpeg'
 ---
 
-h1 class='c-post__title u-text-center'>Style Guide</h1>
+<h1 class='c-post__title u-text-center'>Style Guide</h1>
 
-        <div class='c-content'>
-          
-  <img src='/images/pages/styleguide.jpg' class='c-post__image' alt='Style Guide'>
+         
+ <img src='/images/pages/styleguide.jpg' class='c-post__image' alt='Style Guide'>
 
-          <p>At <a href="http://aspirethemes.com/">Aspire Themes</a> I use a <strong>lot</strong> of tools to help me create WordPress, Ghost and Jekyll themes. Tools will range from development, design, services, hosting and automation.</p>
+<p>At <a href="http://aspirethemes.com/">Aspire Themes</a> I use a <strong>lot</strong> of tools to help me create WordPress, Ghost and Jekyll themes. Tools will range from development, design, services, hosting and automation.</p>
 
 <p>Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. — George Santayana.</p>
 
